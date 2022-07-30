@@ -33,15 +33,9 @@ figcaption {
   text-align: center;
   width: 800px;
 } */
-footer {
-  display: inline-flex;
-  padding: 10px;
-  width: 100%;
-  height: 100px;
-  background: red;
-  column-gap: 11rem;
-  margin-bottom: 1rem;
-  padding-bottom: 2rem;
-  padding-left: 5rem;
-
+#details div {
+  width: 25%;
+  float: left;
+  background-color: rgb(241, 78, 8);
+  text-align: center;
 }
