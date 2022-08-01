@@ -24,15 +24,12 @@ figcaption {
   padding-top: 5px;
   font-size: 0.9rem;
 }
-.how {
+#featured-property p {
   margin-left: 23%;
   text-align: justify;
   width: 800px;
 }
-/* #featured-property p {
-  text-align: center;
-  width: 800px;
-} */
+
 #details div {
   width: 25%;
   float: left;
